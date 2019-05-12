@@ -18,4 +18,4 @@ The categories particularly were given as:
 
 The task is to classify images with respect to the above categories. 
 
-here's the accompanying Kaggle Kernel: https://www.kaggle.com/spsayakpaul/intel-scene-classification-challenge/
+Here's the accompanying Kaggle Kernel: https://www.kaggle.com/spsayakpaul/intel-scene-classification-challenge/
